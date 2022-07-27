@@ -36,3 +36,4 @@ function copyPassword() {
     navigator.clipboard.writeText(novaSenha);
 
 }
+
